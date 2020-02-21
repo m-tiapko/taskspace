@@ -1,0 +1,5 @@
+I want to create new user
+username will : {USER}
+password will : {PASSWORD}
+other info    : {USERINFO}
+That's all i need to create new user!
