@@ -1,0 +1,3 @@
+USER = "Eliot"
+PASSWORD = "6edP@55word" 
+USERINFO = "EliotAlderson, La-scientist, 30y.o" 
