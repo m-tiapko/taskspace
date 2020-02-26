@@ -1,0 +1,33 @@
+# Here is links on articles&books
+# -----------------------------
+# G I T
+# file:///Users/USERNAME/Downloads/Archive/Code%20versioning%20and%20version%20control%20systems.html
+# -----------------------------
+# P Y T H O N
+#   Google classes
+#     https://developers.google.com/edu/python/ 
+#   Module of the week
+#     https://pymotw.com/3/
+#   Euler project
+#     https://projecteuler.net/archives
+#   Leet code
+#     https://leetcode.com/problemset/all/
+#   OOP
+#     https://www.datacamp.com/community/tutorials/python-oop-tutorial
+#   Magic Methods
+#     https://www.tutorialsteacher.com/python/magic-methods-in-python
+#   IPC
+#     https://codecalamity.com/interprocess-communications/
+# -----------------------------
+# B A S H
+#   Scriptin' tutorials
+#     https://ryanstutorials.net/bash-scripting-tutorial/
+#     https://www.shellscript.sh
+#     https://www.mylinuxplace.com/bash-special-variables/ 
+#   Linux Academy
+#     https://linuxacademy.com/cp/modules/view/id/346
+#   Tips'n'Tricks
+#     https://www.linuxjournal.com/article/7385
+#     https://dev.to/awwsmm/101-bash-commands-and-tips-for-beginners-to-experts-30je
+#     https://pragmaticcoders.com/blog/bash-tips-and-tricks/
+#
