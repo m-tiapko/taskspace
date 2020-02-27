@@ -10,7 +10,7 @@ viafile(){
                 case "${opt}" in 
                     o)
                         outputfile=${OPTARG}
-                        (echo "cat <<EOF";cat "${inputfile}";) | sh 2>/dev/null  1>$outputfile
+                        (echo "cat <<EOF";cat $inputfile) | sh 1>$outputfile
                         ;;
                     *)
                         usage
@@ -28,12 +28,10 @@ inputfile=$2
 shift; shift
 if [[ -e ${envfile} && -r ${envfile} && -s ${envfile} ]]; then
     export $(grep -v "^#" ${envfile} | xargs -0)
-    echo "Exported"
     if [[ -e ${inputfile} && -r ${inputfile} && -s ${inputfile} ]]; then
-        echo "Checked"
         if [[ $# -eq 0 ]]; then 
             echo "I here"
-            (echo "cat <<EOF";cat "${inputfile}";) | sh 2>/dev/null
+            (echo "cat <<EOF";cat $inputfile) | sh
         elif [[ $# -eq 2 ]]; then
             viafile $@
         else 
