@@ -1,4 +1,4 @@
-# Here is links on articles&books
+# Here are links on articles&books
 # -----------------------------
 # G I T
 # file:///Users/USERNAME/Downloads/Archive/Code%20versioning%20and%20version%20control%20systems.html
