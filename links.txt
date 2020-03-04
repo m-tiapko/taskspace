@@ -37,4 +37,32 @@
 #     https://codepumpkin.com/jvm-architecture-introduction/
 #     https://blog.idrsolutions.com/2015/04/top-10-open-source-java-and-javaee-application-servers/
 #
+# -----------------------------
+# G R O O V Y
+#     https://ru.wikibooks.org/wiki/Groovy
+#     https://geekbrains.ru/posts/groovy_this
+#     https://www.mrhaki.com/
+#     http://groovy-lang.org/style-guide.html
+#  Atlantis
+#     https://innovalog.atlassian.net/wiki/spaces/JMWE/pages/151158923/Introduction%2Bto%2BGroovy
+#     https://innovalog.atlassian.net/wiki/spaces/JMWE/pages/152469814/Program+structure+in+Groovy
+#  DSL - http://groovy-lang.org/closures.html
+#  Closure - http://groovy-lang.org/dsls.html
+#  Addition
+#     https://groovy-lang.org/structure.html
+#     http://groovy-lang.org/differences.html
+#     http://groovy-lang.org/json.html
+#
+# ------------------------------
+# curl - https://www.tutorialspoint.com/unix_commands/curl.htm
+# httpie - https://innovalog.atlassian.net/wiki/spaces/JMWE/pages/151158923/Introduction%2Bto%2BGroovy
+# ------------------------------
+# HOW TO REPORT BUGS
+#     https://habr.com/ru/post/31214/
+#     https://www.edsd.ru/ru/o_kompanii/novosti/kak-soobshchat-o-problemah-rukovodstvo-dlya-zakazchika
+#     https://www.chiark.greenend.org.uk/~sgtatham/bugs-ru.html
+#     https://www.edsd.ru/ru/o_kompanii/novosti/kak-soobshchat-o-problemah-rukovodstvo-dlya-zakazchika
+#
+#
+#
 #
