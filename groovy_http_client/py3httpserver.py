@@ -1,4 +1,4 @@
-#!/Users/mtiapko/pyenv/py36/bin/python
+#!/usr/bin/env python3
 
 from http.server import HTTPServer, BaseHTTPRequestHandler
 import re
