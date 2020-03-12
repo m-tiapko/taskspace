@@ -24,8 +24,8 @@ public class HttpResponse {
 }
 
 def do_POST(args) {
-    String PORT = "8080"
-    String ADDR = "127.0.0.1"
+    def PORT = "8080"
+    def ADDR = "127.0.0.1"
 
     def dataOperation = [
         "operation": "${args[1]}",
@@ -34,7 +34,7 @@ def do_POST(args) {
     ]
     String json = groovy.json.JsonOutput.toJson(dataOperation)
 
-    URL url = new URL ("http://${ADDR.toString()}:${PORT.toString()}")
+    URL url = new URL ("http://${ADDR}:${PORT}")
     HttpURLConnection connection = url.openConnection()
 
     connection.setRequestMethod("POST")
